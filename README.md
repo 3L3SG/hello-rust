@@ -13,7 +13,7 @@
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/3L3SG/hello-rust?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/3L3SG/hello-rustcolor=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/3L3SG/hello-rust?color=56BEB8">
 
   <img alt="License" src="https://img.shields.io/github/license/3L3SG/hello-rust?color=56BEB8">
 
