@@ -9,13 +9,13 @@
 <h1 align="center">Rust</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/3L3SG/tRust?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/3L3SG/hello-rust?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/3L3SG/tRust?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/3L3SG/hello-rust?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/3L3SG/tRust?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/3L3SG/hello-rustcolor=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/3L3SG/tRust?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/3L3SG/hello-rust?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/rust?color=56BEB8" /> -->
 
@@ -69,7 +69,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) in
 
 ```bash
 # Clone this project
-$ git clone https://github.com/3L3SG/rust
+$ git clone https://github.com/3L3SG/hello-rust
 
 # Access
 $ cd rust
