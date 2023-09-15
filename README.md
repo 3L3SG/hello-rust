@@ -50,8 +50,6 @@ $ cargo build
 
 # Run the project
 $ cargo run
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 &#xa0;
