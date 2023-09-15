@@ -40,10 +40,10 @@ Before starting, you need to have [Git](https://git-scm.com) installed.
 
 ```bash
 # Clone this project
-$ git clone https://github.com/3L3SG/hello-rust
+$ git clone https://github.com/3L3SG/rust
 
 # Access
-$ cd rust
+$ cd rust/basics/<project_name>
 
 # Install dependencies
 $ cargo build
