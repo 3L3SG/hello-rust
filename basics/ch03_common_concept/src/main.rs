@@ -1,3 +1,5 @@
+use crate::l_control_flow::{conditional_while, for_loop, for_loop_generator, if_expression, loop_break, named_loop};
+
 mod l_data_types;
 mod l_functions;
 mod l_vars_mut;
@@ -28,10 +30,27 @@ fn main() {
     println!();
 
     let x = l_functions::ret_five_plus(2);
-    println!("Recived value from function : {x}");
+    println!("Received value from function : {x}");
     println!();
 
-    l_control_flow::valdiate(5);
+    l_control_flow::validate(5);
     println!();
 
+    if_expression(20);
+    println!();
+
+    loop_break();
+    println!();
+
+    named_loop();
+    println!();
+
+    conditional_while(5);
+    println!();
+
+    for_loop();
+    println!();
+
+    for_loop_generator();
+    println!();
 }
